@@ -3,7 +3,7 @@ print("As regras são as seguintes, vão passar músicas que a gente escutou jun
 
 nome = input("Digite abaixo o nome do amor da minha vida: ")
 
-resp1 = input(f"Vamos começar? {nome} ")
+resp1 = input(f"Vamos começar agora? {nome} ")
 
 if resp1 == ("sim") or ("Sim") or ("Vamos"):
     print("♫ Tocando: New West - Those Eyes")
