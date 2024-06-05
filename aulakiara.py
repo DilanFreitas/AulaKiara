@@ -1,4 +1,4 @@
-print("Programei esse joguinho pra gente jogar pra comemorar os nossos 10 meses")
+print("Agora eu criei esse joguinho pra gente jogar pra comemorar os nossos 10 meses")
 print("As regras são as seguintes, vão passar músicas que a gente escutou juntos e você terá que completar a letra")
 
 nome = input("Digite abaixo o nome do amor da minha vida: ")
